@@ -1,0 +1,16 @@
+# data (not redistributed)
+*.xlsx
+*.csv
+
+# generated outputs
+results/
+images/
+
+# python and editors
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+.vscode/
+.idea/
